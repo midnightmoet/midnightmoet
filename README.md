@@ -15,10 +15,9 @@
 
 
 - 📫 Connect with Me:
- - Connect with me on:
- - [LinkedIn](https://www.linkedin.com/in/lisachampagne/) 👨🏻‍💻
- - [Twitter](https://twitter.com/midnightmoet) 👨🏻‍💻
- - Write Me an [Email](mailto:midnightmoet@gmail.com) 💌
+- [LinkedIn](https://www.linkedin.com/in/lisachampagne/) 👨🏻‍💻
+- [Twitter](https://twitter.com/midnightmoet) 👨🏻‍💻
+- Write Me an [Email](mailto:midnightmoet@gmail.com) 💌
 
 <!---
 midnightmoet/midnightmoet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
