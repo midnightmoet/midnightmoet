@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Lisa, a Full-Stack Developer passionate about solving real life problems with code. My background is in healthcare (crazy career change, right?), but my love for Tech and building meaningful life-changing projects overtook me (the heart wants what it wants 🥰).
+- 👋 Hi, I’m Lisa, a Front End Developer passionate about solving real life problems with code. My background is in healthcare (crazy career change, right?), but my love for technology and building meaningful life-changing projects overtook me (the heart wants what it wants 🥰).
 
-- 👀 I’m interested in using data for good by building front-end and back-end projects that meet the daily needs of users.
-- ❤️ I have a passion for Frontend Development specifically.
+- 👀 I’m interested in using data for good by building front-end portions to compliment back end collaborative projects that meet the daily needs of users.
+- ❤️ I have a passion for Frontend Development.
 - 🌱 I’m currently working on continuous learning.  (We know being a coder means being a student for life!)
 - 💞️ I’m looking to collaborate on open source projects and open to new job opportunities
 
