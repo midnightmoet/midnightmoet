@@ -15,7 +15,7 @@
 
 
 - 📫 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/lisachampagne/) 👨🏻‍💻
+- [LinkedIn](https://www.linkedin.com/in/lisa-l-miner/) 👨🏻‍💻
 - [Twitter](https://twitter.com/midnightmoet) 👨🏻‍💻
 - Write Me an [Email](mailto:midnightmoet@gmail.com) 💌
 
